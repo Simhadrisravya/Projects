@@ -28,20 +28,20 @@ Dataset file used:
 SampleSuperstore.csv
 
 📊 Key Analysis Performed
-Sales by Category
-Profit by Region
-Top 10 Products by Sales
-Sales Distribution
-Profit Distribution
-Discount vs Profit Analysis
+Sales by category,
+Profit by Region,
+Top 10 Products by Sales,
+Sales Distribution,
+Profit Distribution,
+Discount vs Profit Analysis.
 
 📈 Dashboard Features
 The final dashboard includes:
-Total Sales, Profit, and Quantity KPIs
-Sales by Category
-Profit by Region
-Top Performing Products
-Discount vs Profit Relationship
+Total Sales, Profit, and Quantity KPIs,
+Sales by Category,
+Profit by Region,
+Top Performing Products,
+Discount vs Profit Relationship.
 
 🔍 Business Insights
 Technology category generated the highest sales
